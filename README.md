@@ -1,4 +1,4 @@
-# Anomaly_Detection_with_GUI
+# Anomaly_Detection_in_Videos_with_GUI
 Anomaly detection using video processing by using OpenCV integrated with a simple GUI using Tkinter
 To run this project, download the code or copy it to your IDE and make changes in the video paths provided in the code and install all th eessential libraries that
 mentioned below:
